@@ -7,7 +7,7 @@ It demonstrates a complete **end-to-end ML pipeline** including:
 - Model training
 - Evaluation
 - Saving & loading model (`model.pkl`)
-- (Optional) Deployment with Flask
+-  Deployment with Flask
 
 ---
 
@@ -58,7 +58,7 @@ python app.py
 
 ## 📊 Results
 - Model: Logistic Regression  
-- Accuracy: ~XX% (from notebook results)  
+- Accuracy: ~88% (from notebook results)  
 
 ---
 
